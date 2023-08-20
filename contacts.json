@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "last_name": "\u0415\u0440\u043e\u0444\u0435\u0435\u0432",
+      "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439",
+      "middle_name": "\u0410\u043d\u0434\u0440\u0435\u0435\u0432\u0438\u0447",
+      "organization": "CherryPick",
+      "work_phone": "89375105499",
+      "mobile_phone": "89375105499"
+    },
+    {
+      "last_name": "\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439",
+      "name": "\u0422\u0435\u0441\u0442",
+      "middle_name": "\u0422\u0435\u0441\u0442\u043e\u0432\u0438\u0447",
+      "organization": "\u0422\u0435\u0441\u0442\u043e\u0432\u0430\u044f",
+      "work_phone": "1234567890",
+      "mobile_phone": "1234567890"
+    }
+  ]
+}

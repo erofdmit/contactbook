@@ -4,4 +4,4 @@
 # pip install -r requirements.txt
 
 # Запуск скрипта с указанием имени CSV файла
-python main.py contacts.csv
+python main.py
